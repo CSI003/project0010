@@ -1,0 +1,44 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.container1 {
+ height: 50%;
+ width: 75%;
+}
+
+.subheading {
+  width: 100%;
+  height: calc(25%);
+}
+
+#one {
+  background-color: red;
+}
+
+#two {
+  background-color: blue;
+}
+
+#three {
+  background-color: yellow;
+}
+
+#four {
+  background-color: green;
+}
+
+.textline {
+  font-family: calibri;
+  font-size: medium;
+  color: black;
+  text-align: center;
+}
