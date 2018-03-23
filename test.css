@@ -11,34 +11,7 @@ body {
 }
 
 .container1 {
- height: 50%;
+ height: 75%;
  width: 75%;
 }
 
-.subheading {
-  width: 100%;
-  height: calc(25%);
-}
-
-#one {
-  background-color: red;
-}
-
-#two {
-  background-color: blue;
-}
-
-#three {
-  background-color: yellow;
-}
-
-#four {
-  background-color: green;
-}
-
-.textline {
-  font-family: calibri;
-  font-size: medium;
-  color: black;
-  text-align: center;
-}
