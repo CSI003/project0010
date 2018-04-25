@@ -59,7 +59,6 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 	border: 0.3em solid black;
-	overflow: scroll;
 }
 
 .container7 {
