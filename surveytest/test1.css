@@ -83,6 +83,11 @@ body {
 	height: 30%;
 }
 
+img {
+	width: 100%;
+	height: 50%;
+}
+
 #portals {
 	height: 100%;
 }
