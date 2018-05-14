@@ -98,7 +98,8 @@ body {
   background-color: #B167FF;
 }
 
-.menutab {
+a {
+  color: white;
   z-index: 1;
   width: calc(95%/6);
   height: 100%;
@@ -110,9 +111,10 @@ body {
   font-size: 1.35em;
   font-weight: bold;
   letter-spacing: .1em;
+  text-decoration: none;
 }
 
-.menutab:hover {
+a:hover {
   color: black;
   background-color: gold; 
   transition: 0.5s ease all;
