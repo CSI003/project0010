@@ -118,7 +118,7 @@ body {
 
 .menutab:hover {
   color: black;
-  background-color: gold; 
+  background-color: white; 
   transition: 0.5s ease all;
   height: 110%;
   margin-top: 1em;
