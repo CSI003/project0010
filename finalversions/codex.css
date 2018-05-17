@@ -13,7 +13,7 @@ body {
  width: 100%;
  display: flex;
  flex-wrap: wrap;
- background-color: #602f6b; 
+ background-color: #84b3ff; 
  color: white; 
 }
 
@@ -80,7 +80,7 @@ body {
 .sidebar {
   height: 100%;
   width: 15%;
-  background-color: #B167FF;
+  background-color: #246de2;
 }
 
 .middlearea {
@@ -95,7 +95,7 @@ body {
 .insertbox {
   width: 90%;
   height: 90%;
-  background-color: #B167FF;
+  background-color: white;
 }
 
 a {
