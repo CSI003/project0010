@@ -13,7 +13,7 @@ body {
  width: 100%;
  display: flex;
  flex-wrap: wrap;
- background-color: #84b3ff; 
+ background-color: #f5fbef; 
  color: white; 
 }
 
@@ -78,17 +78,16 @@ body {
   align-items: center; 
 }
 
-.celender {
+.calender {
   height: 100%;
   width: 100%;
-  overflow: scroll;
   overflow-x: hidden;
 }
 
 .sidebar {
   height: 100%;
   width: 15%;
-  background-color: #246de2;
+  background-color: #f5fbef;
 }
 
 .middlearea {
