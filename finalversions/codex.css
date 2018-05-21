@@ -86,8 +86,16 @@ body {
 
 .sidebar {
   height: 100%;
-  width: 15%;
+
   background-color: #f5fbef;
+}
+
+.n1{
+  width: 10%;
+}
+
+.n2{
+  width: 20%;
 }
 
 .middlearea {
