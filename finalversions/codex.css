@@ -95,6 +95,20 @@ body {
 
 .n2{
   width: 25%;
+  display: block; 
+  overflow: hidden;
+}
+
+.i1{
+  background-image: url (https://github.com/CSI003/project0010/blob/master/finalversions/imgs/mon-tues.png);
+}
+
+.i2{
+  background-image: url (https://github.com/CSI003/project0010/blob/master/finalversions/imgs/wed-thurs.png);
+}
+
+.i3{
+  background-image: url (https://github.com/CSI003/project0010/blob/master/finalversions/imgs/fri.png);
 }
 
 .middlearea {
