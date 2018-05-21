@@ -51,12 +51,13 @@ body {
 }
 
 .logo {
-  width: 50%;
-  height: 100%;
-  background-color: gold;
-  background-image: url("https://user-images.githubusercontent.com/23199807/39839899-7fdb91c0-5392-11e8-9fc8-1ac5706e38b7.png");
-  background-repeat: no-repeat;
-  background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    background-image: url(https://user-images.githubusercontent.com/23199807/40290620-06f79778-5c74-11e8-98c5-f24e5a0f19ae.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 75%, 75%;
 }
 
 .navbarside {
