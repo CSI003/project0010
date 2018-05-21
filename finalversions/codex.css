@@ -77,6 +77,13 @@ body {
   align-items: center; 
 }
 
+.celender {
+  height: 100%;
+  width: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
 .sidebar {
   height: 100%;
   width: 15%;
