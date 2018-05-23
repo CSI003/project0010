@@ -100,10 +100,12 @@ body {
 
 .inside{
   width: 5%;
+  height: 100%;
 }
 
 .middle{
   width: 15%;
+  height: 100%;
 }
 
 .i1{
