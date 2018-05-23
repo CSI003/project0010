@@ -94,18 +94,20 @@ body {
 
 .n2{
   width: 25%;
-  display: block; 
+  display: flex; 
   overflow: hidden;
+  flex-wrap: nowrap;
 }
 
 .inside{
-  width: 5%;
+  width: 20%;
   height: 100%;
 }
 
 .middle{
-  width: 15%;
+  width: 85%;
   height: 100%;
+  display: block;
 }
 
 .i1{
