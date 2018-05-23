@@ -96,6 +96,7 @@ body {
   width: 25%;
   display: block; 
   overflow: hidden;
+  align-items: center;
 }
 
 .i1{
