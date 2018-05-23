@@ -96,29 +96,27 @@ body {
   width: 25%;
   display: block; 
   overflow: hidden;
-  align-items: center;
-  justify-content: center;
 }
 
 .i1{
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/mon-tues.png?raw=true);
   background-size: 60%, 100%;
   background-repeat: no-repeat;
-  height: 33%;
+  height: 30%;
 }
 
 .i2{
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/wed-thurs.png?raw=true);
   background-size: 60%, 100%;
   background-repeat: no-repeat;
-  height: 33%;
+  height: 40%;
 }
 
 .i3{
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/fri.png?raw=true);
   background-size: 60%, 100%;
   background-repeat: no-repeat;
-  height: 33%;
+  height: 30%;
 }
 
 .middlearea {
