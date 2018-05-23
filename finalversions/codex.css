@@ -102,21 +102,21 @@ body {
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/mon-tues.png?raw=true);
   background-size: 60%, 100%;
   background-repeat: no-repeat;
-  height: 35%;
+  height: 32%;
 }
 
 .i2{
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/wed-thurs.png?raw=true);
   background-size: 60%, 100%;
   background-repeat: no-repeat;
-  height: 35%;
+  height: 37%;
 }
 
 .i3{
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/fri.png?raw=true);
   background-size: 60%, 100%;
   background-repeat: no-repeat;
-  height: 30%;
+  height: 31%;
 }
 
 .middlearea {
