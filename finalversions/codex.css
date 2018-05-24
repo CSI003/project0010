@@ -146,6 +146,16 @@ body {
   background-color: #f5fbef;
 }
 
+.navlinks{
+  z-index: 1;
+  width: calc(95%/6);
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
 .navlinks:hover{
   background-color: white; 
   transition: 0.5s ease all;
