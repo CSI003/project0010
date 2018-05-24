@@ -146,8 +146,7 @@ body {
   background-color: #f5fbef;
 }
 
-.navlinks{
-  color: black;
+.navlinks:hover{
   background-color: white; 
   transition: 0.5s ease all;
   height: 110%;
@@ -171,5 +170,9 @@ a {
 }
 
 a:hover {
+  transition: 0.5s ease all;
+  height: 110%;
+  margin-top: 1em;
+  color: black;
   text-decoration: italic;
 }
