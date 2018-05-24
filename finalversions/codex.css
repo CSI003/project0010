@@ -112,21 +112,21 @@ body {
 
 .i1{
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/mon-tues.png?raw=true);
-  background-size: 60%, 100%;
+  background-size: 100%, 100%;
   background-repeat: no-repeat;
   height: 32%;
 }
 
 .i2{
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/wed-thurs.png?raw=true);
-  background-size: 60%, 100%;
+  background-size: 100%, 100%;
   background-repeat: no-repeat;
   height: 37%;
 }
 
 .i3{
   background-image: url(https://github.com/CSI003/project0010/blob/master/finalversions/imgs/fri.png?raw=true);
-  background-size: 60%, 100%;
+  background-size: 100%, 100%;
   background-repeat: no-repeat;
   height: 31%;
 }
