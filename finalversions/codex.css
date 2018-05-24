@@ -161,6 +161,8 @@ body {
   transition: 0.5s ease all;
   height: 110%;
   margin-top: 1em;
+  color: black;
+  text-decoration: italic;
 }
 
 a {
@@ -177,12 +179,4 @@ a {
   font-weight: bold;
   letter-spacing: .1em;
   text-decoration: none;
-}
-
-a:hover {
-  transition: 0.5s ease all;
-  height: 110%;
-  margin-top: 1em;
-  color: black;
-  text-decoration: italic;
 }
