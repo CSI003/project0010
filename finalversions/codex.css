@@ -161,6 +161,21 @@ a {
   letter-spacing: .1em;
   text-decoration: none;
 }
+.navlinks-doc{
+  color: white;
+  z-index: 1;
+  width: calc(95%/6);
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  font-family: arial;
+  font-size: 1.35em;
+  font-weight: bold;
+  letter-spacing: .1em;
+  text-decoration: none;
+}
 
 .navlinks{
   z-index: 1;
@@ -181,4 +196,26 @@ a {
   text-decoration: italic;
 }
 
+.dropdown:hover .dropbtn{
+  background-color: white;
+}
 
+.dropdown-content {
+    background-color: #000000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.d1{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.di:hover{
+  background-color: white;
+  color: black;
+}
