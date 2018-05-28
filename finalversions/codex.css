@@ -254,6 +254,7 @@ a {
 
 .dropdown-content a:hover {
     background-color: #ddd;
+    width: 100%;
 }
 
 .dropdown:hover .dropdown-content {
