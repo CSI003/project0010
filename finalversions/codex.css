@@ -206,23 +206,19 @@ a {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  font-family: arial;
+}
+
+.dropdown .dropbtn {
+ font-family: arial;
   font-size: 1.35em;
   font-weight: bold;
   letter-spacing: .1em;
   text-decoration: none;
-}
-
-.dropdown .dropbtn {
-  font-size: 1.35em;
-  font-weight: bold;
-  letter-spacing: .1em;
   border: none;
   outline: none;
   color: white;
   padding: 14px 16px;
   background-color: inherit;
-  font-family: inherit;
   margin: 0;
 }
 
