@@ -198,6 +198,7 @@ a {
 }
 
 .dropdown {
+  float: left;
   overflow: hidden;  
   z-index: 1;
   width: calc(95%/6);
