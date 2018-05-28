@@ -161,6 +161,7 @@ a {
   letter-spacing: .1em;
   text-decoration: none;
 }
+
 .navlinks-doc{
   color: white;
   z-index: 1;
@@ -213,14 +214,16 @@ a {
 }
 
 .dropdown .dropbtn {
-    font-size: 16px;    
-    border: none;
-    outline: none;
-    color: white;
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: inherit;
-    margin: 0;
+  font-size: 1.35em;
+  font-weight: bold;
+  letter-spacing: .1em;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
